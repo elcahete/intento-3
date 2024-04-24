@@ -6,4 +6,5 @@ if (promedio == 0)
     Console.WriteLine("es 0");
       Console.WriteLine("este es un cambio");
     hola
+        chimuelo
 }
